@@ -12,7 +12,7 @@
 
 1. **Склонировать репозиторий:**
    ```bash
-   git clone https://github.com/ТВОЙ_НИК/go-health-checker.git
+   git clone https://github.com/Kay0k1/go-website-health-checker.git
    cd go-website-health-checker
    ```
 
